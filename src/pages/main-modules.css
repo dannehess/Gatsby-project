@@ -1,0 +1,19 @@
+body{
+    background-color: #efefef;
+}
+
+main{
+    max-width: 1000px;
+    height: 100%;
+    margin: 3rem auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: red;
+}
+
+section{
+    max-width: 1000px;
+    background-color: darkgrey;
+    padding: 40px;
+    margin: 20px auto;
+}
